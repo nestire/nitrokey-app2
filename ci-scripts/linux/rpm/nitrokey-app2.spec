@@ -32,6 +32,8 @@ BuildRequires: xcb-util-keysyms
 BuildRequires: xcb-util-image
 BuildRequires: xcb-util-cursor
 BuildRequires: xcb-util-renderutil
+BuildRequires: libcap-ng
+BuildRequires: libcap
 
 Requires: glibc
 Requires: zlib
